@@ -78,7 +78,7 @@ async def recheck(bot, update):
     except:
        return await update.message.delete(2)       
     if clicked != typed:
-       return await update.answer("That's not for you! 👀", show_alert=True
+       return await update.answer("That's not for you! 👀", show_alert=True)
 
     m=await update.message.edit("**Searching..💥**")
     id      = update.data.split("_")[-1]
