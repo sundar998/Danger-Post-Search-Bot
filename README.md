@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-POST-SEARCH-BOT Logo">
+  <img src="https://graph.org/file/f2ba9718b43734cfa6ecd-e4ad99e519a01685b2.jpg" alt="VJ-POST-SEARCH-BOT Logo">
 </p>
 <h1 align="center">
   VJ POST SEARCH BOT
